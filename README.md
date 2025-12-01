@@ -52,8 +52,8 @@
 #### React Hooks
 
 - [리액트 훅이란](./2.%20React/5.%20리액트%20훅이란.md)
-- [useState](./2.%20React/6.%20useState정리.md)
-- [useEffect](./2.%20React/7.%20useEffect정리.md)
+- [useState](./2.%20React/6.%20useState.md)
+- [useEffect](./2.%20React/7.%20useEffect.md)
 - [useRef](./2.%20React/11.useRef.md)
 - [useContext](./2.%20React/12.useContext.md)
 - [useLayoutEffect](./2.%20React/14.useLayoutEffect.md)
@@ -61,7 +61,7 @@
 
 #### 최적화
 
-- [useMemo](./2.%20React/8.%20useMemo정리.md)
+- [useMemo](./2.%20React/8.%20useMemo.md)
 - [useCallback](./2.%20React/9.%20useCallback.md)
 - [React.memo](./2.%20React/10.%20React.memo.md)
 
